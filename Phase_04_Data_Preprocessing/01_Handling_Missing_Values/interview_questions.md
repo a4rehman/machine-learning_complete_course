@@ -1,0 +1,10 @@
+﻿# Interview Questions: Handling Missing Values
+
+1. Explain Handling Missing Values to a beginner.
+2. Where would you use this in a production project?
+3. What are the most common edge cases?
+4. How would you debug a failure related to this topic?
+5. What trade-offs should a developer consider?
+
+## Premium Answer Pattern
+Use this structure: definition, example, trade-off, production note, and testing strategy.

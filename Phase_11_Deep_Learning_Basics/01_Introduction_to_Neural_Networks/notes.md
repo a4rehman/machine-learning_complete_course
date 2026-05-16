@@ -1,0 +1,4 @@
+﻿# Notes: Introduction to Neural Networks
+
+Use this page for formulas, assumptions, experiment results, and questions to revisit after practice.
+
